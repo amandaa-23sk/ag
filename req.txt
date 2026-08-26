@@ -1,0 +1,9 @@
+langchain 
+langgraph 
+langchain-community
+langchain-groq
+langchain-ollama
+langgraph-checkpoint-sqlite
+python-dotenv
+pydantic 
+langchain-tavily
